@@ -1,6 +1,6 @@
-In this repository, we will Project we will see SQL projects. 
+#SQL Projects:
 
---create a relational data model for a university enrollment system.
---I made an Entity Relationship Diagram to help me see the relationship between the tables.
---created the tables with the correct data types. 
+This Project showcases a basic relational database design for a university course enrollment system. It includes 
+Entity Relationship Diagram(ERD), SQL schema creation, data insertion, example queries, and a brief report.
+
 
