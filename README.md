@@ -1,9 +1,9 @@
-#SQL Projects 1:
+* SQL Projects 1:
 
 This Project showcases a basic relational database design for a university course enrollment system. It includes 
 Entity Relationship Diagram(ERD), SQL schema creation, data insertion, example queries, and a brief report.
 
-SQL Project 2:
+* SQL Project 2:
 
 * Project Overview
 This Project showcases advanced SQL analysis skills through a financial investigation scenario. The challenge involves analyzing WSDA Music. Using real-world business data, the goal is to uncover inconsistencies in financial records from 2011-2012 and identify the individual responsible for the missing funds.
